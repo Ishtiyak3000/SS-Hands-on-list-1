@@ -1,1 +1,1 @@
-# SS-Hands-on-list-1
+# SS-Hands-on-list-1 is in master branch
